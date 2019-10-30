@@ -1,0 +1,72 @@
+body {
+
+    background-color: bisque;
+}
+
+.a-menu {
+    color: #fff;
+    text-decoration: none;
+}
+
+.btn-menu {
+    padding-top: 5px;
+    padding-bottom: 0;
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.5);
+    margin: 0 auto; 
+    max-width: 1200px; 
+    padding: 25px;
+}
+
+.container-info {
+    margin-left: 50px;
+    margin-bottom: 25px;
+}
+
+.container-kurs {
+    background-color: white;
+    border-radius: 3px;
+    margin: 0 auto;
+    margin-top: 25px;
+    max-width: 1000px;
+    padding: 25px;
+}
+
+.container-menu {
+    background-image: linear-gradient(to right, grey, #35353a, #35353a, #35353a, grey);
+}
+
+.form-control{
+    color:gray;
+}
+
+header {
+    background-image: linear-gradient(to right bottom,
+        rgba(255, 255, 255, 0.3),
+        rgba(0, 0, 0, 0.3)),
+        url("images/header.jpg");
+    background-size: cover;
+}
+
+.img-kurs {
+    margin-top: 25px
+}
+
+.logo {
+    margin-left: 8%;
+}
+
+.row-book {
+    margin-top: 25px;
+}
+
+td, th {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.text {
+    padding: 25px;
+}
